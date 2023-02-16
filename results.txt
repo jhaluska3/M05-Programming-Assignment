@@ -1,0 +1,2 @@
+The test results show if the data input to the test function are equal to the answer input by the user, for this example 1 and 6. The test_list_int added 1,2,3 and compared it to 6. 
+Which is a successful test and is viewed as success. When adding 1,4 1,4 2,5 it equals 9,10 compared to "1" input by the user, so the result is a failure.
